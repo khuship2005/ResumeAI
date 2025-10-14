@@ -1,0 +1,6 @@
+streamlit
+fpdf
+python-docx
+pdfkit
+PyPDF2
+qrcode
