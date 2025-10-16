@@ -15,8 +15,7 @@
 
 ### 🧩 Tech Stack
 - **Frontend:** Streamlit  
-- **Backend:** Python  
-- **AI Integration:** OpenAI API  
+- **Backend:** Python 
 - **File Export:** FPDF, python-docx  
 - **QR Generation:** qrcode  
 
