@@ -1,12 +1,8 @@
 # ResumeAI
 
-*AI-powered Streamlit app to create resumes, portfolios & analyze ATS scores*
+**ResumeAI** is a Streamlit-based application that helps users effortlessly create professional resumes and personal portfolios. It includes an ATS (Applicant Tracking System) score analyzer to evaluate how well your resume aligns with job descriptions. The app also supports exporting resumes in multiple formats and generating shareable portfolio links with integrated QR codes.
+*
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-
----
 
 ## Overview
 
